@@ -1,0 +1,9 @@
+package models;
+
+/**@autor
+ * Yeison Fernando Rodriguez Sanchez
+*/
+
+public enum TypeRequest {
+NEW_CLIENT,GET_TREE_CONFERENCE,ADD_PERMISSION,DELETE_PERMISSION,GET_REPORT,CONNECTED,GET_FILE,ADD_NODE,DELETE,GET_TREE_PERMISSIONS
+}

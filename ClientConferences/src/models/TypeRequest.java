@@ -1,0 +1,5 @@
+package models;
+
+public enum TypeRequest {
+NEW_CLIENT,GET_TREE_CONFERENCE,GET_REPORT,CONNECTED,GET_FILE,ADD_NODE,DELETE
+}
